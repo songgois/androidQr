@@ -1,0 +1,12 @@
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\bin\Release\BarcodeScan.exe.manifest
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\bin\Release\BarcodeScan.application
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\bin\Release\BarcodeScan.exe
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\bin\Release\BarcodeScan.pdb
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.FormMain.resources
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.Properties.Resources.resources
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.csproj.GenerateResource.Cache
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.exe.manifest
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.application
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.exe
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.pdb
+E:\MyCode\win\vs_code\BarcodeScan\BarcodeScan\obj\Release\BarcodeScan.csprojResolveAssemblyReference.cache
